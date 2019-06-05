@@ -1,5 +1,7 @@
+target/*
+!target/bamboo-mutex-plugin*
 *.class
-target
+atlassian-plugin-sdk*
 
 # Package Files #
 *.jar
